@@ -1,0 +1,49 @@
+#perfil{
+    
+    border-radius: 100%;
+    margin: auto;
+    padding: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.formacao{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#frame{
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+.buttons{
+    width:auto;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.act-button{
+    width: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.dados{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.xp{
+    width:auto;
+    text-align: center;
+}
+#gaming{
+    display: block;
+    margin-left: 10px;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 100%;
+}
